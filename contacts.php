@@ -485,4 +485,7 @@ $friends[]='keilihvictoria';
 $friends[]='gabbyepstein';
 $friends[]='bebeu4ev';
 $friends[]='jaylene_joy';
+$friends[]='kenziexphotography';
+$friends[]='sophoullasg';
+
 ?>
