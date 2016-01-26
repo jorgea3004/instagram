@@ -1,0 +1,5 @@
+html, body, header, footer, section, article, img, p,div {display: inline;float: left;position: relative;margin: 0;padding: 0;height: auto;width: 100%;}
+header { height: 200px;background: url(logotipo-oficial-instagram-ancho-2014.jpg) center top no-repeat;}
+article {border: 1px solid #aaa; margin: 2px; padding: 2px; width: 150px;}
+article img {height: 150px; width: 150px;}
+article p {text-align:center;}
