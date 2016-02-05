@@ -29,6 +29,8 @@ include 'contacts.php';
 					$datos = $obj->items[0]->user;
 					$profile_picture=$datos->profile_picture;
 					$profile_name=$datos->username;
+					$userId = $datos->id;
+					$mediaRecentJson='https://api.instagram.com/v1/users/'.$userId.'/media/recent/';
 				}
 				if($i>=50){$i=count($friends);}
 				?>
@@ -36,7 +38,7 @@ include 'contacts.php';
 				<IMG SRC="<?=$profile_picture;?>">
 				<p><?=$profile_name;?></p>
 			</article>
-			<?php
+			<?php 
 			}
 			?>
 		</section>
