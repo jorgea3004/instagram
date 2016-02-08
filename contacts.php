@@ -500,4 +500,7 @@ $friends[]='tiffanytrump';
 $friends[]='ivankatrump';
 $friends[]='Mj.Roman';
 $friends[]='krotchy';
+$friends[]='dollwithagun';
+$friends[]='jenamays';
+$friends[]='danielleksharp';
 ?>
