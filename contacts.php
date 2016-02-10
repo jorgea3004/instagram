@@ -1,6 +1,17 @@
 <?php
 $friends = array();
-$friends[]='ig_husband';
+$friends[]='synthetik_';
+$friends[]='rachelburr';
+$friends[]='rosievan';
+$friends[]='rfeliciano28';
+$friends[]='cttchickentuna';
+$friends[]='andrearinconoficial';
+$friends[]='katiedaly';
+$friends[]='pandabear_suicide';
+$friends[]='tati_dieteman';
+$friends[]='jesstaras';
+$friends[]='lilredheidihood';
+//$friends[]='ig_husband';
 $friends[]='suicidegirls';
 $friends[]='katyaelisehenry';
 $friends[]='aarikagerette';
@@ -372,7 +383,6 @@ $friends[]='missjuliakelly';
 $friends[]='lindseypelas';
 $friends[]='chanteltaleen';
 $friends[]='raquelpomplun';
-$friends[]='vickibaybeee';
 $friends[]='shennykap';
 $friends[]='cassidymre';
 $friends[]='kaylenalyssa';
@@ -503,4 +513,6 @@ $friends[]='krotchy';
 $friends[]='dollwithagun';
 $friends[]='jenamays';
 $friends[]='danielleksharp';
+$friends[]='carmendickman';
+
 ?>
