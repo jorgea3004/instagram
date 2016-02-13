@@ -1,5 +1,8 @@
 <?php
 $friends = array();
+$friends[]='claudiabakehouse';
+$friends[]='a_mossbarger';
+$friends[]='marissaluck';
 $friends[]='synthetik_';
 $friends[]='rachelburr';
 $friends[]='rosievan';
