@@ -1,5 +1,6 @@
 <?php
 $friends = array();
+$friends[]='svetabily';
 $friends[]='claudiabakehouse';
 $friends[]='a_mossbarger';
 $friends[]='marissaluck';
@@ -14,7 +15,7 @@ $friends[]='pandabear_suicide';
 $friends[]='tati_dieteman';
 $friends[]='jesstaras';
 $friends[]='lilredheidihood';
-//$friends[]='ig_husband';
+$friends[]='jessicalousg';
 $friends[]='suicidegirls';
 $friends[]='katyaelisehenry';
 $friends[]='aarikagerette';
