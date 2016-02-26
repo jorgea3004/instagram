@@ -1,5 +1,16 @@
 <?php
 $friends = array();
+$friends[]='aleestefania';
+$friends[]='reynaarriaga_';
+$friends[]='sexo.logia';
+$friends[]='hollycrystal_';
+$friends[]='devan1804';
+$friends[]='becscosplaywonderland';
+$friends[]='mariademidovaa';
+$friends[]='brookeevers';
+$friends[]='maddy.bell3';
+$friends[]='playmateiryna';
+$friends[]='emma_richter_official';
 $friends[]='amburberry';
 $friends[]='felicefleur';
 $friends[]='kayyybear';
