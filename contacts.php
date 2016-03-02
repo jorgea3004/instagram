@@ -1,5 +1,9 @@
 <?php
 $friends = array();
+$friends[]='xsara.mastrangelo';
+$friends[]='tanya_rybakova';
+$friends[]='andrewdhphotos';
+$friends[]='danielleboker';
 $friends[]='aleestefania';
 $friends[]='reynaarriaga_';
 $friends[]='sexo.logia';
